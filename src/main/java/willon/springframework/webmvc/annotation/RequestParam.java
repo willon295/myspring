@@ -7,8 +7,6 @@ import java.lang.annotation.*;
  *
  * @author willon
  * @version 1.0
- * 联系方式： willon295@163.com
- * @since 18-8-8
  */
 
 @Target(ElementType.PARAMETER)
