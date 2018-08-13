@@ -1,6 +1,6 @@
 # 手写Spring，SpringMVC
 
-不看源码，不问原理，手写试试水.  基于注解实现：
+不看源码，不问原理，手写试水.  基于注解实现：
 
 1.  Spring 的 IOC ，DI
 2.   内置 Tomcat
